@@ -4,11 +4,9 @@ owncloud-client
 Description:
 ownCloud is a software system for what is commonly termed cloud storage, for your personal Server.
 
-Dependencies from KCP:
-
+Needed packages from KCP:<br>
 Download and run makepkg -si in the package directory (with Dolphin and F4):
 
-1) qtkeychain
-2) iniparser
-3) ocsync
-
+[qtkeychain](../../../qtkeychain)<br>
+[iniparser](../../../iniparser)<br>
+[ocsync](../../../ocsync)
