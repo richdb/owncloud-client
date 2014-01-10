@@ -1,5 +1,3 @@
-# Maintainer: 
-# https://github.com/zizzfizzix/pkgbuilds
 
 ##############################################################
 #### The section below can be adjusted to suit your needs ####
