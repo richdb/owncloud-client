@@ -1,4 +1,4 @@
-# Maintainer: Kuba Serafinowski <zizzfizzix(at)gmail(dot)com>
+# Maintainer: 
 # https://github.com/zizzfizzix/pkgbuilds
 
 ##############################################################
@@ -18,7 +18,7 @@ pkgname=owncloud-client
 pkgver=1.5.0
 pkgrel=1
 pkgdesc='ownCloud client based on mirall'
-arch=('i686' 'x86_64' 'armv7h')
+arch=('x86_64')
 url='http://owncloud.org/'
 license=('GPL2')
 depends=('ocsync' 'qtkeychain' 'qtwebkit')
